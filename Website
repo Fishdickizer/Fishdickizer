@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Fishdickizer - $FISHDICK</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 3em;
+            color: #f7df1e;
+            margin-bottom: 0;
+        }
+
+        .tagline {
+            font-size: 1.2em;
+            color: #ff00ff;
+            margin-top: 0;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .meme-image {
+            margin: 20px 0;
+            width: 100%;
+            max-width: 600px;
+            border: 5px dashed #ff00ff;
+        }
+
+        .features {
+            text-align: left;
+            background-color: #222;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+
+        .feature-item {
+            font-size: 1.2em;
+            margin-bottom: 15px;
+            color: #f7df1e;
+        }
+
+        .order-button {
+            display: inline-block;
+            padding: 15px 25px;
+            background-color: #ff00ff;
+            color: #fff;
+            font-size: 1.2em;
+            font-weight: bold;
+            text-decoration: none;
+            border-radius: 50px;
+            transition: background-color 0.3s ease;
+            text-transform: uppercase;
+        }
+
+        .order-button:hover {
+            background-color: #d400d4;
+        }
+
+        .testimonials {
+            margin-top: 30px;
+            font-style: italic;
+            color: #aaa;
+        }
+
+        .testimonial {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>The Fishdickizer</h1>
+        <p class="tagline">Unleash the power of aquatic absurdity!</p>
+
+        <img src="file-cfsRx4FoVyuuchKhEcUVNPdw" alt="The Fishdickizer meme" class="meme-image">
+
+        <div class="features">
+            <h2>Outrageous Features:</h2>
+            <p class="feature-item">🐟 Aquatic Ecstasy Mode™ - Feel like you're swimming with dolphins (but, like... weirdly).</p>
+            <p class="feature-item">🌊 Extreme Water Resistance - Can survive tsunamis, squids, and your ex's tears.</p>
+            <p class="feature-item">⚡ Solar-Powered Thrill - Fully charges in 10 seconds under direct sun or near an LED disco ball.</p>
+            <p class="feature-item">💎 Blockchain-Infused Luxury - Every thrust verified on the Solana chain. Because WHY NOT.</p>
+        </div>
+
+        <a href="#" class="order-button">Pre-order the Fishdickizer Now!</a>
+
+        <div class="testimonials">
+            <h2>What the people are saying:</h2>
+            <p class="testimonial">"This changed my life, my horoscope, and possibly my DNA." - A Totally Real Customer</p>
+            <p class="testimonial">"I don't know what it does, but I bought six." - Impulse Buyer #9001</p>
+            <p class="testimonial">"It made me believe in crypto again. Sort of." - The Last HODLer Standing</p>
+        </div>
+    </div>
+
+</body>
+</html>
